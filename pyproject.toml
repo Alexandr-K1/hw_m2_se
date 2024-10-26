@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "hw-2"
+version = "1.0.0"
+description = "AddressBook_bot"
+authors = ["Alex <alexsa1995@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
